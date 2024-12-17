@@ -1,0 +1,6 @@
+fastapi
+langchain
+openai
+pinecone-client
+uvicorn
+sentence-transformers
